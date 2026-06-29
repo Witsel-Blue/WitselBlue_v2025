@@ -1,0 +1,31 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencies
+node_modules/
+
+# Nuxt build
+.nuxt
+dist
+
+# Cache
+.cache
+.npm
+.eslintcache
+
+# Environment
+.env
+.env.*
+
+# OS
+.DS_Store
+
+# IDE
+.idea
+
+# Service worker (generated)
+sw.*

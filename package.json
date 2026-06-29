@@ -1,0 +1,34 @@
+{
+  "name": "witselblue2025",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "build:analyze": "ANALYZE=true nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.3.5",
+    "core-js": "^3.37.1",
+    "gsap": "^3.12.5",
+    "highlight.js": "^11.11.1",
+    "lottie-web": "^5.13.0",
+    "nuxt": "^2.15.8",
+    "nuxt-i18n": "^6.28.1",
+    "p5": "^1.9.4",
+    "swiper": "^5.4.5",
+    "three": "^0.166.1",
+    "vue": "^2.7.10",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9",
+    "nuxt-gsap-module": "^2.0.0",
+    "sass": "^1.90.0",
+    "sass-loader": "^10.5.2"
+  }
+}
